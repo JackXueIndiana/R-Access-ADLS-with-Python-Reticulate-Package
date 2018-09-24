@@ -5,4 +5,5 @@ In my previous article, https://github.com/JackXueIndiana/Jupyter-Notebook-Pytho
 
 One thing I noticed is that the R version should be 3.5 and up to support the Reticulate source_python() function which is the core of our success.
 
+The python and R scripts are in https://github.com/JackXueIndiana/R-Access-Azure-Data-Lake-Store-with-Multi-Factor-Authentication
 
